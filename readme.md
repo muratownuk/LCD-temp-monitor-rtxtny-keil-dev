@@ -2,12 +2,12 @@
 
 **Google-Drive URL:**
 ```
- https://drive.google.com/drive/folders/1ewdTUWSF-nkjTB1uiyQlwgvCL1-rwyUh?usp=sharing  
+https://drive.google.com/drive/folders/1ewdTUWSF-nkjTB1uiyQlwgvCL1-rwyUh?usp=sharing 
 ```
 
 **Demonstration Video URL:**
 ```
- https://www.youtube.com/watch?v=rb25G0KUSpk 
+https://www.youtube.com/watch?v=rb25G0KUSpk 
 ``` 
 
 ### Project Function  
