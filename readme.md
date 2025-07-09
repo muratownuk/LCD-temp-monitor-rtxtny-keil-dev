@@ -2,12 +2,12 @@
 
 **Google-Drive URL:**
 ```
-   
+ https://drive.google.com/drive/folders/1ewdTUWSF-nkjTB1uiyQlwgvCL1-rwyUh?usp=sharing  
 ```
 
 **Demonstration Video URL:**
 ```
- 
+ https://www.youtube.com/watch?v=rb25G0KUSpk 
 ``` 
 
 ### Project Function  
@@ -37,8 +37,7 @@ The KEYPAD tasks function is to modify the min/max temperature range of the
 project. The min of 20 and max of 40 can be set to different values, so the 
 programs reaction will be for these different set values.
 
-The RTOS uses signaling method to signal other tasks to run. 
-
+The RTOS in this program uses signaling method. 
 
 
 
